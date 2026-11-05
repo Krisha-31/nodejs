@@ -150,6 +150,15 @@ Request Body:
 ##🎬Demo video
 [Watch Demo Video](https://drive.google.com/drive/folders/162A1xxfnEdrPRRQmOGFzX8zNcDA3X6se)
 
+
+##📷 Screenshoots
+![screenshot](assets/serverconnected.png)
+![screenshot](assets/addmovie.png)
+![screenshot](assets/getmovie.png)
+![screenshot](assets/getspecificmovie.png)
+![screenshot](assets/updatemovie.png)
+![screenshot](assets/deletemovie.png)
+![screenshot](assets/mongodb.png)
 ## 🧪 Testing
 
 You can test all API endpoints using Postman.
