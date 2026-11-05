@@ -151,9 +151,10 @@ Request Body:
 [Watch Demo Video](https://drive.google.com/drive/folders/162A1xxfnEdrPRRQmOGFzX8zNcDA3X6se)
 
 ##📷 Screenshoots
-
+```
 ##severconnected
 ![screenshot](assets/serverconnected.png)
+```
 ##addmovies
 ![screenshot](assets/addmovie.png)
 ![screenshot](assets/getmovie.png)
